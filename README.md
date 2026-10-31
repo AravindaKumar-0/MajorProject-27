@@ -42,3 +42,4 @@ It supports:
 - TXT
 
 On first start, it imports dataset entries into SQLite and builds a FAISS index.
+  
